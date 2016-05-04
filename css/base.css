@@ -1,0 +1,18 @@
+body,h1,h2,h3,h4,h5,h6,form,input,ul,li,ol,dl,dt,dd,i,p,em,strong,del{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+a{
+  text-decoration:none;
+}
+*{
+	font-family:"Arial";
+}
+body{
+	color:#ccc;
+	font-size:14px;
+}
+em,i{
+	font-style: normal;
+}
